@@ -8,7 +8,7 @@ const apartments = [
   { id: 1, name: "Ático Marbella Golden Mile", location: "Marbella", guests: 6, price: 180, image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600&q=80" },
   { id: 2, name: "Suite Sevilla Santa Cruz", location: "Sevilla", guests: 4, price: 120, image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=600&q=80" },
   { id: 3, name: "Villa Estepona Beach", location: "Estepona", guests: 8, price: 250, image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&q=80" },
-  { id: 4, name: "Loft Málaga Centro", location: "Málaga", guests: 2, price: 95, image: "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=600&q=80" },
+  { id: 4, name: "Loft Málaga Centro", location: "Málaga", guests: 2, price: 95, image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=600&q=80" },
   { id: 5, name: "Penthouse Fuengirola Sea", location: "Fuengirola", guests: 5, price: 160, image: "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=600&q=80" },
   { id: 6, name: "Apartamento Sevilla Triana", location: "Sevilla", guests: 4, price: 110, image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80" },
 ];
